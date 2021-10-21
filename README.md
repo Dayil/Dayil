@@ -27,4 +27,4 @@
 
 <br/>
 
-<h6>♟👊"Quando o jogo acaba, o peão e o rei vão para a mesma caixa." <img width="11px"</h6></div>
+<h6>🥰👊"Fui tirando de pistolas y el destino trajo muerte." <img width="11px"</h6></div>

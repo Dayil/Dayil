@@ -13,16 +13,16 @@
 
 <h5>How to reach me:</h5>
 <a href="https://x.com/dandayil">
-  <img align="left" alt="Dayil Twitter" width="22px" src="https://cdn.cms-twdigitalassets.com/content/dam/developer-twitter/images/Twitter_logo_blue_48.png" />
+  <img align="left" alt="Dayil Twitter" width="22px" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" />
 </a>
 <a href="https://www.instagram.com/dandayil/">
-  <img align="left" alt="Dayil Instagram" width="22px" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" />
+  <img align="left" alt="Dayil Instagram" width="22px" src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/tBxa1IFcTQH.png" />
 </a>
 <a href="https://discord.com/users/235873764435427328">
  <img align="left" alt="Dayil Discord" width=22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
 </a>
 <a href="https://zyo.se/dayil">
- <img align="left" alt="Dayil Carrd" width=60px" src="https://carrd.co/assets/images/docs/brand/svg/logo-color-dark.svg" />
+ <img align="left" alt="Dayil Carrd" width=60px" src="https://cdn-icons-png.flaticon.com/512/122/122933.png" />
 </a>
 
 <br/>

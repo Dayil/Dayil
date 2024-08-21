@@ -22,7 +22,7 @@
  <img align="left" alt="Dayil Discord" width=22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
 </a>
 <a href="https://zyo.se/dayil">
- <img align="left" alt="Dayil Carrd" width=60px" src="https://cdn-icons-png.flaticon.com/512/122/122933.png" />
+ <img align="left" alt="Dayil Carrd" width=22px" src="https://cdn-icons-png.flaticon.com/512/122/122933.png" />
 </a>
 
 <br/>
